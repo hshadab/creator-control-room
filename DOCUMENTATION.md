@@ -5,7 +5,7 @@ A sleek, dark-themed dashboard application with terminal aesthetics, built with 
 ## Features
 
 ### 🎯 Core Functionality
-- **Authentication**: Mock sign-in/sign-out system (ready for backend integration)
+- **Mock Authentication**: Simple one-click dashboard access without credentials
 - **Dashboard Tabs**: Three main sections - Overview, Settings, Activity
 - **Command Palette**: Quick navigation via keyboard shortcuts (⌘K)
 - **Settings Form**: Validated form with error handling and real-time feedback
@@ -57,9 +57,9 @@ npm install
 npm run dev
 ```
 
-### Demo Credentials
-- **Username**: `admin`
-- **Password**: `password`
+### Demo Access
+
+Simply click "Enter Dashboard" to access the application - no credentials required. This mock authentication provides instant access while maintaining the visual design of a secure login interface.
 
 ## Project Structure
 
