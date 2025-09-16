@@ -1,4 +1,4 @@
-# Midnight Terminal - Design & Documentation
+# Creator Control Room - Design & Documentation
 
 ## Overview
 Midnight Terminal is a dark-themed dashboard application inspired by terminal/command-line interfaces with a cyberpunk aesthetic. The design focuses on functionality, accessibility, and a polished user experience with mock authentication for easy access.
